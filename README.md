@@ -1,5 +1,7 @@
 # A mixed-survival model of Lassa fever identifies correlates of outcome and severity
 
+[![DOI](https://zenodo.org/badge/1033915430.svg)](https://doi.org/10.5281/zenodo.19359338)
+
 > Manuscript in preparation
 
 ## Methods
